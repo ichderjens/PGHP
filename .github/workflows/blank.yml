@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
           
       - name: asciidoctor-ghpages
-      uses: manoelcampos/asciidoctor-ghpages-action@v2
+        uses: manoelcampos/asciidoctor-ghpages-action@v2
