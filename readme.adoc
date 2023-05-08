@@ -12,4 +12,4 @@
 
 *2023-05-12*
 
-Ein erster Test Inhalte über github Pages zu deployen
+Ein erster Test Inhalte über github Pages zu deployen.
